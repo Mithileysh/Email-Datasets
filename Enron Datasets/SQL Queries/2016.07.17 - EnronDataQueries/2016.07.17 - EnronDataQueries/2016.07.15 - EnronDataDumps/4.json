@@ -1,0 +1,830 @@
+[
+  {
+    "sender": "jeff.dasovich@enron.com",
+    "firstName": "Jeff",
+    "lastName": "Dasovich",
+    "emailCounts": 2119
+  },
+  {
+    "sender": "james.d.steffes@enron.com",
+    "firstName": "James",
+    "lastName": "Steffes",
+    "emailCounts": 1196
+  },
+  {
+    "sender": "j.kaminski@enron.com",
+    "firstName": "Vince",
+    "lastName": "Kaminski",
+    "emailCounts": 1057
+  },
+  {
+    "sender": "kay.mann@enron.com",
+    "firstName": "Kay",
+    "lastName": "Mann",
+    "emailCounts": 814
+  },
+  {
+    "sender": "steven.j.kean@enron.com",
+    "firstName": "Steven",
+    "lastName": "Kean",
+    "emailCounts": 705
+  },
+  {
+    "sender": "sara.shackleton@enron.com",
+    "firstName": "Sara",
+    "lastName": "Shackleton",
+    "emailCounts": 579
+  },
+  {
+    "sender": "lynn.blair@enron.com",
+    "firstName": "Lynn",
+    "lastName": "Blair",
+    "emailCounts": 538
+  },
+  {
+    "sender": "sally.beck@enron.com",
+    "firstName": "Sally",
+    "lastName": "Beck",
+    "emailCounts": 525
+  },
+  {
+    "sender": "richard.b.sanders@enron.com",
+    "firstName": "Richard",
+    "lastName": "Sanders",
+    "emailCounts": 461
+  },
+  {
+    "sender": "matthew.lenhart@enron.com",
+    "firstName": "Matthew",
+    "lastName": "Lenhart",
+    "emailCounts": 382
+  },
+  {
+    "sender": "kimberly.watson@enron.com",
+    "firstName": "Kimberly",
+    "lastName": "Watson",
+    "emailCounts": 377
+  },
+  {
+    "sender": "kevin.m.presto@enron.com",
+    "firstName": "Kevin",
+    "lastName": "Presto",
+    "emailCounts": 334
+  },
+  {
+    "sender": "richard.shapiro@enron.com",
+    "firstName": "Richard",
+    "lastName": "Shapiro",
+    "emailCounts": 333
+  },
+  {
+    "sender": "tana.jones@enron.com",
+    "firstName": "Tana",
+    "lastName": "Jones",
+    "emailCounts": 331
+  },
+  {
+    "sender": "louise.kitchen@enron.com",
+    "firstName": "Louise",
+    "lastName": "Kitchen",
+    "emailCounts": 325
+  },
+  {
+    "sender": "james.derrick@enron.com",
+    "firstName": "James",
+    "lastName": "Derrick",
+    "emailCounts": 321
+  },
+  {
+    "sender": "rod.hayslett@enron.com",
+    "firstName": "Rod",
+    "lastName": "Hayslett",
+    "emailCounts": 297
+  },
+  {
+    "sender": "gerald.nemec@enron.com",
+    "firstName": "Gerald",
+    "lastName": "Nemec",
+    "emailCounts": 296
+  },
+  {
+    "sender": "jeffrey.a.shankman@enron.com",
+    "firstName": "Jeffrey",
+    "lastName": "Shankman",
+    "emailCounts": 284
+  },
+  {
+    "sender": "michelle.cash@enron.com",
+    "firstName": "Michelle",
+    "lastName": "Cash",
+    "emailCounts": 272
+  },
+  {
+    "sender": "mike.grigsby@enron.com",
+    "firstName": "Mike",
+    "lastName": "Grigsby",
+    "emailCounts": 243
+  },
+  {
+    "sender": "john.arnold@enron.com",
+    "firstName": "John",
+    "lastName": "Arnold",
+    "emailCounts": 242
+  },
+  {
+    "sender": "phillip.m.love@enron.com",
+    "firstName": "Phillip",
+    "lastName": "Love",
+    "emailCounts": 241
+  },
+  {
+    "sender": "phillip.k.ellen@enron.com",
+    "firstName": "Phillip",
+    "lastName": "Allen",
+    "emailCounts": 240
+  },
+  {
+    "sender": "elizabeth.sager@enron.com",
+    "firstName": "Elizabeth",
+    "lastName": "Sager",
+    "emailCounts": 232
+  },
+  {
+    "sender": "tracy.geaccone@enron.com",
+    "firstName": "Tracy",
+    "lastName": "Geaccone",
+    "emailCounts": 223
+  },
+  {
+    "sender": "susan.scott@enron.com",
+    "firstName": "Susan",
+    "lastName": "Scott",
+    "emailCounts": 215
+  },
+  {
+    "sender": "e..haedicke@enron.com",
+    "firstName": "Mark",
+    "lastName": "Haedicke",
+    "emailCounts": 212
+  },
+  {
+    "sender": "kim.ward@enron.com",
+    "firstName": "Kim",
+    "lastName": "Ward",
+    "emailCounts": 211
+  },
+  {
+    "sender": "rick.buy@enron.com",
+    "firstName": "Rick",
+    "lastName": "Buy",
+    "emailCounts": 208
+  },
+  {
+    "sender": "stanley.horton@enron.com",
+    "firstName": "Stanley",
+    "lastName": "Horton",
+    "emailCounts": 191
+  },
+  {
+    "sender": "kate.symes@enron.com",
+    "firstName": "Kate",
+    "lastName": "Symes",
+    "emailCounts": 189
+  },
+  {
+    "sender": "marie.heard@enron.com",
+    "firstName": "Marie",
+    "lastName": "Heard",
+    "emailCounts": 178
+  },
+  {
+    "sender": "drew.fossum@enron.com",
+    "firstName": "Drew",
+    "lastName": "Fossum",
+    "emailCounts": 169
+  },
+  {
+    "sender": "mark.e.taylor@enron.com",
+    "firstName": "Mark",
+    "lastName": "Taylor",
+    "emailCounts": 167
+  },
+  {
+    "sender": "larry.f.campbell@enron.com",
+    "firstName": "Larry",
+    "lastName": "Campbell",
+    "emailCounts": 167
+  },
+  {
+    "sender": "m..forney@enron.com",
+    "firstName": "John",
+    "lastName": "Forney",
+    "emailCounts": 164
+  },
+  {
+    "sender": "stacey.w.white@enron.com",
+    "firstName": "Stacey",
+    "lastName": "White",
+    "emailCounts": 163
+  },
+  {
+    "sender": "barry.tycholiz@enron.com",
+    "firstName": "Barry",
+    "lastName": "Tycholiz",
+    "emailCounts": 161
+  },
+  {
+    "sender": "chris.dorland@enron.com",
+    "firstName": "Chris",
+    "lastName": "Dorland",
+    "emailCounts": 157
+  },
+  {
+    "sender": "shelley.corman@enron.com",
+    "firstName": "Shelley",
+    "lastName": "Corman",
+    "emailCounts": 154
+  },
+  {
+    "sender": "chris.germany@enron.com",
+    "firstName": "Chris",
+    "lastName": "Germany",
+    "emailCounts": 154
+  },
+  {
+    "sender": "mark.whitt@enron.com",
+    "firstName": "Mark",
+    "lastName": "Whitt",
+    "emailCounts": 145
+  },
+  {
+    "sender": "eric.bass@enron.com",
+    "firstName": "Eric",
+    "lastName": "Bass",
+    "emailCounts": 144
+  },
+  {
+    "sender": "jane.tholt@enron.com",
+    "firstName": "Jane",
+    "lastName": "Tholt",
+    "emailCounts": 139
+  },
+  {
+    "sender": "lavorato@enron.com",
+    "firstName": "John",
+    "lastName": "Lavorato",
+    "emailCounts": 139
+  },
+  {
+    "sender": "errol.mclaughlin@enron.com",
+    "firstName": "Errol",
+    "lastName": "McLaughlin",
+    "emailCounts": 136
+  },
+  {
+    "sender": "darrell.schoolcraft@enron.com",
+    "firstName": "Darrell",
+    "lastName": "Schoolcraft",
+    "emailCounts": 130
+  },
+  {
+    "sender": "debra.perlingiere@enron.com",
+    "firstName": "Debra",
+    "lastName": "Perlingiere",
+    "emailCounts": 124
+  },
+  {
+    "sender": "matt.smith@enron.com",
+    "firstName": "Matt",
+    "lastName": "Smith",
+    "emailCounts": 113
+  },
+  {
+    "sender": "dutch.quigley@enron.com",
+    "firstName": "Dutch",
+    "lastName": "Quigley",
+    "emailCounts": 113
+  },
+  {
+    "sender": "david.w.delainey@enron.com",
+    "firstName": "David",
+    "lastName": "Delainey",
+    "emailCounts": 112
+  },
+  {
+    "sender": "stephanie.panus@enron.com",
+    "firstName": "Stephanie",
+    "lastName": "Panus",
+    "emailCounts": 110
+  },
+  {
+    "sender": "kevin.hyatt@enron.com",
+    "firstName": "Kevin",
+    "lastName": "Hyatt",
+    "emailCounts": 105
+  },
+  {
+    "sender": "lindy.donoho@enron.com",
+    "firstName": "Lindy",
+    "lastName": "Donoho",
+    "emailCounts": 94
+  },
+  {
+    "sender": "john.zufferli@enron.com",
+    "firstName": "John",
+    "lastName": "Zufferli",
+    "emailCounts": 93
+  },
+  {
+    "sender": "paul.lucci@enron.com",
+    "firstName": "Paul",
+    "lastName": "Lucci",
+    "emailCounts": 88
+  },
+  {
+    "sender": "carol.clair@enron.com",
+    "firstName": "Carol",
+    "lastName": "Clair",
+    "emailCounts": 82
+  },
+  {
+    "sender": "scott.neal@enron.com",
+    "firstName": "Scott",
+    "lastName": "Neal",
+    "emailCounts": 80
+  },
+  {
+    "sender": "daren.j.farmer@enron.com",
+    "firstName": "Daren",
+    "lastName": "Farmer",
+    "emailCounts": 78
+  },
+  {
+    "sender": "dan.hyvl@enron.com",
+    "firstName": "Dan",
+    "lastName": "Hyvl",
+    "emailCounts": 72
+  },
+  {
+    "sender": "thomas.a.martin@enron.com",
+    "firstName": "Thomas",
+    "lastName": "Martin",
+    "emailCounts": 71
+  },
+  {
+    "sender": "tori.kuykendall@enron.com",
+    "firstName": "Tori",
+    "lastName": "Kuykendall",
+    "emailCounts": 69
+  },
+  {
+    "sender": "danny.mccarty@enron.com",
+    "firstName": "Danny",
+    "lastName": "McCarty",
+    "emailCounts": 69
+  },
+  {
+    "sender": "mark.mcconnell@enron.com",
+    "firstName": "Mark",
+    "lastName": "McConnell",
+    "emailCounts": 65
+  },
+  {
+    "sender": "monika.causholli@enron.com",
+    "firstName": "Monika",
+    "lastName": "Causholli",
+    "emailCounts": 65
+  },
+  {
+    "sender": "charles.weldon@enron.com",
+    "firstName": "Charles",
+    "lastName": "Weldon",
+    "emailCounts": 63
+  },
+  {
+    "sender": "liz.taylor@enron.com",
+    "firstName": "Liz",
+    "lastName": "Taylor",
+    "emailCounts": 57
+  },
+  {
+    "sender": "cara.semperger@enron.com",
+    "firstName": "Cara",
+    "lastName": "Semperger",
+    "emailCounts": 56
+  },
+  {
+    "sender": "hunter.s.shively@enron.com",
+    "firstName": "Hunter",
+    "lastName": "Shively",
+    "emailCounts": 53
+  },
+  {
+    "sender": "michelle.lokay@enron.com",
+    "firstName": "Michelle",
+    "lastName": "Lokay",
+    "emailCounts": 51
+  },
+  {
+    "sender": "kam.keiser@enron.com",
+    "firstName": "Kam",
+    "lastName": "Keiser",
+    "emailCounts": 51
+  },
+  {
+    "sender": "robin.rodrigue@enron.com",
+    "firstName": "Robin",
+    "lastName": "Rodrigue",
+    "emailCounts": 51
+  },
+  {
+    "sender": "jonathan.mckay@enron.com",
+    "firstName": "Jonathan",
+    "lastName": "Mckay",
+    "emailCounts": 51
+  },
+  {
+    "sender": "paul.y barbo@enron.com",
+    "firstName": "Paul",
+    "lastName": "Barbo",
+    "emailCounts": 50
+  },
+  {
+    "sender": "greg.whalley@enron.com",
+    "firstName": "Greg",
+    "lastName": "Whalley",
+    "emailCounts": 49
+  },
+  {
+    "sender": "monique.sanchez@enron.com",
+    "firstName": "Monique",
+    "lastName": "Sanchez",
+    "emailCounts": 48
+  },
+  {
+    "sender": "patrice.l.mims@enron.com",
+    "firstName": "Patrice",
+    "lastName": "Mims",
+    "emailCounts": 48
+  },
+  {
+    "sender": "susan.bailey@enron.com",
+    "firstName": "Susan",
+    "lastName": "Bailey",
+    "emailCounts": 47
+  },
+  {
+    "sender": "jim.schwieger@enron.com",
+    "firstName": "Jim",
+    "lastName": "Schwieger",
+    "emailCounts": 44
+  },
+  {
+    "sender": "martin.cuilla@enron.com",
+    "firstName": "Martin",
+    "lastName": "Cuilla",
+    "emailCounts": 42
+  },
+  {
+    "sender": "bill.rapp@enron.com",
+    "firstName": "Bill",
+    "lastName": "Rapp",
+    "emailCounts": 41
+  },
+  {
+    "sender": "paul.d.thomas@enron.com",
+    "firstName": "Paul",
+    "lastName": "Thomas",
+    "emailCounts": 41
+  },
+  {
+    "sender": "jason.williams@enron.com",
+    "firstName": "Jason",
+    "lastName": "Williams",
+    "emailCounts": 41
+  },
+  {
+    "sender": "fletcher.j.sturm@enron.com",
+    "firstName": "Fletcher",
+    "lastName": "Sturm",
+    "emailCounts": 40
+  },
+  {
+    "sender": "joe.parks@enron.com",
+    "firstName": "Joe",
+    "lastName": "Parks",
+    "emailCounts": 36
+  },
+  {
+    "sender": "andy.zipper@enron.com",
+    "firstName": "Andy",
+    "lastName": "Zipper",
+    "emailCounts": 33
+  },
+  {
+    "sender": "jason.wolfe@enron.com",
+    "firstName": "Jason",
+    "lastName": "Wolfe",
+    "emailCounts": 33
+  },
+  {
+    "sender": "steven.harris@enron.com",
+    "firstName": "Steven",
+    "lastName": "Harris",
+    "emailCounts": 33
+  },
+  {
+    "sender": "holden.salisbury@enron.com",
+    "firstName": "Holden",
+    "lastName": "Salisbury",
+    "emailCounts": 32
+  },
+  {
+    "sender": "don.baughman@enron.com",
+    "firstName": "Don",
+    "lastName": "Baughman",
+    "emailCounts": 31
+  },
+  {
+    "sender": "mary.fischer@enron.com",
+    "firstName": "Mary",
+    "lastName": "Fischer",
+    "emailCounts": 31
+  },
+  {
+    "sender": "theresa.staab@enron.com",
+    "firstName": "Theresa",
+    "lastName": "Staab",
+    "emailCounts": 31
+  },
+  {
+    "sender": "cooper.richey@enron.com",
+    "firstName": "Cooper",
+    "lastName": "Richey",
+    "emailCounts": 30
+  },
+  {
+    "sender": "sean.crandall@enron.com",
+    "firstName": "Sean",
+    "lastName": "Crandall",
+    "emailCounts": 30
+  },
+  {
+    "sender": "harry.arora@enron.com",
+    "firstName": "Harry",
+    "lastName": "Arora",
+    "emailCounts": 29
+  },
+  {
+    "sender": "diana.scholtes@enron.com",
+    "firstName": "Diana",
+    "lastName": "Scholtes",
+    "emailCounts": 29
+  },
+  {
+    "sender": "geoff.storey@enron.com",
+    "firstName": "Geoff",
+    "lastName": "Storey",
+    "emailCounts": 29
+  },
+  {
+    "sender": "kevin.ruscitti@enron.com",
+    "firstName": "Kevin",
+    "lastName": "Ruscitti",
+    "emailCounts": 28
+  },
+  {
+    "sender": "phillip.platter@enron.com",
+    "firstName": "Phillip",
+    "lastName": "Platter",
+    "emailCounts": 27
+  },
+  {
+    "sender": "sandra.f.brawner@enron.com",
+    "firstName": "Sandra",
+    "lastName": "Brawner",
+    "emailCounts": 26
+  },
+  {
+    "sender": "mary.hain@enron.com",
+    "firstName": "Mary",
+    "lastName": "Hain",
+    "emailCounts": 26
+  },
+  {
+    "sender": "teb.lokey@enron.com",
+    "firstName": "Teb",
+    "lastName": "Lokey",
+    "emailCounts": 25
+  },
+  {
+    "sender": "jeff.skilling@enron.com",
+    "firstName": "Jeffrey",
+    "lastName": "Skilling",
+    "emailCounts": 25
+  },
+  {
+    "sender": "susan.w.pereira@enron.com",
+    "firstName": "Susan",
+    "lastName": "Pereira",
+    "emailCounts": 24
+  },
+  {
+    "sender": "stacy.dickson@enron.com",
+    "firstName": "Stacy",
+    "lastName": "Dickson",
+    "emailCounts": 21
+  },
+  {
+    "sender": "juan.hernandez@enron.com",
+    "firstName": "Juan",
+    "lastName": "Hernandez",
+    "emailCounts": 19
+  },
+  {
+    "sender": "mike.carson@enron.com",
+    "firstName": "Mike",
+    "lastName": "Carson",
+    "emailCounts": 18
+  },
+  {
+    "sender": "larry.may@enron.com",
+    "firstName": "Larry",
+    "lastName": "May",
+    "emailCounts": 17
+  },
+  {
+    "sender": "mike.swerzbin@enron.com",
+    "firstName": "Mike",
+    "lastName": "Swerzbin",
+    "emailCounts": 17
+  },
+  {
+    "sender": "kenneth.lay@enron.com",
+    "firstName": "Kenneth",
+    "lastName": "Lay",
+    "emailCounts": 15
+  },
+  {
+    "sender": "jay.reitmeyer@enron.com",
+    "firstName": "Jay",
+    "lastName": "Reitmeyer",
+    "emailCounts": 14
+  },
+  {
+    "sender": "judy.townsend@enron.com",
+    "firstName": "Judy",
+    "lastName": "Townsend",
+    "emailCounts": 14
+  },
+  {
+    "sender": "joe.stepenovitch@enron.com",
+    "firstName": "Joe",
+    "lastName": "Stepenovitch",
+    "emailCounts": 13
+  },
+  {
+    "sender": "richard.ring@enron.com",
+    "firstName": "Richard",
+    "lastName": "Ring",
+    "emailCounts": 13
+  },
+  {
+    "sender": "john.hodge@enron.com",
+    "firstName": "John",
+    "lastName": "Hodge",
+    "emailCounts": 13
+  },
+  {
+    "sender": "vladi.pimenov@enron.com",
+    "firstName": "Vladi",
+    "lastName": "Pimenov",
+    "emailCounts": 13
+  },
+  {
+    "sender": "dana.davis@enron.com",
+    "firstName": "Dana",
+    "lastName": "Davis",
+    "emailCounts": 13
+  },
+  {
+    "sender": "andrea.ring@enron.com",
+    "firstName": "Andrea",
+    "lastName": "Ring",
+    "emailCounts": 12
+  },
+  {
+    "sender": "benjamin.rogers@enron.com",
+    "firstName": "Benjamin",
+    "lastName": "Rogers",
+    "emailCounts": 11
+  },
+  {
+    "sender": "keith.holst@enron.com",
+    "firstName": "Keith",
+    "lastName": "Holst",
+    "emailCounts": 11
+  },
+  {
+    "sender": "bill.williams@enron.com",
+    "firstName": "Bill",
+    "lastName": "Williams",
+    "emailCounts": 11
+  },
+  {
+    "sender": "john.griffith@enron.com",
+    "firstName": "John",
+    "lastName": "Griffith",
+    "emailCounts": 11
+  },
+  {
+    "sender": "brad.mckay@enron.com",
+    "firstName": "Brad",
+    "lastName": "Mckay",
+    "emailCounts": 10
+  },
+  {
+    "sender": "doug.gilbert-smith@enron.com",
+    "firstName": "Doug",
+    "lastName": "Gilbert-smith",
+    "emailCounts": 10
+  },
+  {
+    "sender": "scott.hendrickson@enron.com",
+    "firstName": "Scott",
+    "lastName": "Hendrickson",
+    "emailCounts": 9
+  },
+  {
+    "sender": "peter.keavey@enron.com",
+    "firstName": "Peter",
+    "lastName": "Keavey",
+    "emailCounts": 7
+  },
+  {
+    "sender": "ryan.slinger@enron.com",
+    "firstName": "Ryan",
+    "lastName": "Slinger",
+    "emailCounts": 6
+  },
+  {
+    "sender": "craig.dean@enron.com",
+    "firstName": "Craig",
+    "lastName": "Dean",
+    "emailCounts": 5
+  },
+  {
+    "sender": "robert.benson@enron.com",
+    "firstName": "Robert",
+    "lastName": "Benson",
+    "emailCounts": 5
+  },
+  {
+    "sender": "eric.saibi@enron.com",
+    "firstName": "Eric",
+    "lastName": "Saibi",
+    "emailCounts": 4
+  },
+  {
+    "sender": "geir.solberg@enron.com",
+    "firstName": "Geir",
+    "lastName": "Solberg",
+    "emailCounts": 4
+  },
+  {
+    "sender": "l..gay@enron.com",
+    "firstName": "Randall",
+    "lastName": "Gay",
+    "emailCounts": 2
+  },
+  {
+    "sender": "joe.quenet@enron.com",
+    "firstName": "Joe",
+    "lastName": "Quenet",
+    "emailCounts": 2
+  },
+  {
+    "sender": "tom.donohoe@enron.com",
+    "firstName": "Tom",
+    "lastName": "Donohoe",
+    "emailCounts": 2
+  },
+  {
+    "sender": "steven.p.south@enron.com",
+    "firstName": "Steven",
+    "lastName": "South",
+    "emailCounts": 1
+  },
+  {
+    "sender": "chris.stokley@enron.com",
+    "firstName": "Chris",
+    "lastName": "Stokley",
+    "emailCounts": 1
+  },
+  {
+    "sender": "jeff.king@enron.com",
+    "firstName": "Jeff",
+    "lastName": "King",
+    "emailCounts": 1
+  }
+]

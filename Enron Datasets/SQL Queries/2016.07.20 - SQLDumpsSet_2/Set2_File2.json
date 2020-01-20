@@ -1,0 +1,30 @@
+[
+  {
+    "dayName": "Sunday",
+    "totalEmails": 4311
+  },
+  {
+    "dayName": "Monday",
+    "totalEmails": 31656
+  },
+  {
+    "dayName": "Tuesday",
+    "totalEmails": 32333
+  },
+  {
+    "dayName": "Wednesday",
+    "totalEmails": 31174
+  },
+  {
+    "dayName": "Thursday",
+    "totalEmails": 28834
+  },
+  {
+    "dayName": "Friday",
+    "totalEmails": 25773
+  },
+  {
+    "dayName": "Saturday",
+    "totalEmails": 2239
+  }
+]

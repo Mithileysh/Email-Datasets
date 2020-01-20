@@ -1,0 +1,766 @@
+[
+  {
+    "dailyEmail": "2001-01-01",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-01-02",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-01-03",
+    "countOfEmails": 19
+  },
+  {
+    "dailyEmail": "2001-01-04",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-01-05",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-01-08",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-01-09",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-01-10",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-01-11",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-01-12",
+    "countOfEmails": 17
+  },
+  {
+    "dailyEmail": "2001-01-16",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-01-17",
+    "countOfEmails": 30
+  },
+  {
+    "dailyEmail": "2001-01-18",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-01-19",
+    "countOfEmails": 29
+  },
+  {
+    "dailyEmail": "2001-01-23",
+    "countOfEmails": 28
+  },
+  {
+    "dailyEmail": "2001-01-24",
+    "countOfEmails": 34
+  },
+  {
+    "dailyEmail": "2001-01-25",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-01-26",
+    "countOfEmails": 28
+  },
+  {
+    "dailyEmail": "2001-01-29",
+    "countOfEmails": 20
+  },
+  {
+    "dailyEmail": "2001-01-30",
+    "countOfEmails": 22
+  },
+  {
+    "dailyEmail": "2001-01-31",
+    "countOfEmails": 31
+  },
+  {
+    "dailyEmail": "2001-02-02",
+    "countOfEmails": 23
+  },
+  {
+    "dailyEmail": "2001-02-05",
+    "countOfEmails": 25
+  },
+  {
+    "dailyEmail": "2001-02-06",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-02-12",
+    "countOfEmails": 33
+  },
+  {
+    "dailyEmail": "2001-02-15",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-02-16",
+    "countOfEmails": 32
+  },
+  {
+    "dailyEmail": "2001-02-19",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-02-21",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-02-22",
+    "countOfEmails": 8
+  },
+  {
+    "dailyEmail": "2001-02-26",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-02-27",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-02-28",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-03-01",
+    "countOfEmails": 17
+  },
+  {
+    "dailyEmail": "2001-03-02",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-03-05",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-03-06",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-03-07",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-03-08",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-03-09",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-03-12",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-03-14",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-03-18",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-03-19",
+    "countOfEmails": 20
+  },
+  {
+    "dailyEmail": "2001-03-20",
+    "countOfEmails": 6
+  },
+  {
+    "dailyEmail": "2001-03-21",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-03-22",
+    "countOfEmails": 3
+  },
+  {
+    "dailyEmail": "2001-03-23",
+    "countOfEmails": 31
+  },
+  {
+    "dailyEmail": "2001-03-29",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-03-30",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-03-31",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-04-02",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-04-04",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-04-05",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-04-06",
+    "countOfEmails": 35
+  },
+  {
+    "dailyEmail": "2001-04-09",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-04-10",
+    "countOfEmails": 30
+  },
+  {
+    "dailyEmail": "2001-04-11",
+    "countOfEmails": 59
+  },
+  {
+    "dailyEmail": "2001-04-12",
+    "countOfEmails": 23
+  },
+  {
+    "dailyEmail": "2001-04-13",
+    "countOfEmails": 39
+  },
+  {
+    "dailyEmail": "2001-04-16",
+    "countOfEmails": 38
+  },
+  {
+    "dailyEmail": "2001-04-18",
+    "countOfEmails": 6
+  },
+  {
+    "dailyEmail": "2001-04-19",
+    "countOfEmails": 36
+  },
+  {
+    "dailyEmail": "2001-04-23",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-04-24",
+    "countOfEmails": 56
+  },
+  {
+    "dailyEmail": "2001-04-25",
+    "countOfEmails": 38
+  },
+  {
+    "dailyEmail": "2001-04-27",
+    "countOfEmails": 45
+  },
+  {
+    "dailyEmail": "2001-04-30",
+    "countOfEmails": 40
+  },
+  {
+    "dailyEmail": "2001-05-01",
+    "countOfEmails": 62
+  },
+  {
+    "dailyEmail": "2001-05-02",
+    "countOfEmails": 67
+  },
+  {
+    "dailyEmail": "2001-05-03",
+    "countOfEmails": 27
+  },
+  {
+    "dailyEmail": "2001-05-04",
+    "countOfEmails": 24
+  },
+  {
+    "dailyEmail": "2001-05-07",
+    "countOfEmails": 42
+  },
+  {
+    "dailyEmail": "2001-05-08",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-05-10",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-05-11",
+    "countOfEmails": 26
+  },
+  {
+    "dailyEmail": "2001-05-15",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-05-16",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-05-17",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-05-18",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-05-21",
+    "countOfEmails": 17
+  },
+  {
+    "dailyEmail": "2001-05-22",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-05-25",
+    "countOfEmails": 21
+  },
+  {
+    "dailyEmail": "2001-05-29",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-05-30",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-05-31",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-06-01",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-06-04",
+    "countOfEmails": 21
+  },
+  {
+    "dailyEmail": "2001-06-05",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-06-06",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-06-07",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-06-08",
+    "countOfEmails": 21
+  },
+  {
+    "dailyEmail": "2001-06-14",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-06-15",
+    "countOfEmails": 17
+  },
+  {
+    "dailyEmail": "2001-06-18",
+    "countOfEmails": 6
+  },
+  {
+    "dailyEmail": "2001-06-19",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-06-20",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-06-25",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-06-26",
+    "countOfEmails": 26
+  },
+  {
+    "dailyEmail": "2001-06-27",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-06-28",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-06-29",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-07-02",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-07-03",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-07-10",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-07-11",
+    "countOfEmails": 3
+  },
+  {
+    "dailyEmail": "2001-07-12",
+    "countOfEmails": 6
+  },
+  {
+    "dailyEmail": "2001-07-13",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-07-16",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-07-17",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-07-18",
+    "countOfEmails": 8
+  },
+  {
+    "dailyEmail": "2001-07-19",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-07-23",
+    "countOfEmails": 21
+  },
+  {
+    "dailyEmail": "2001-07-24",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-07-25",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-07-26",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-07-30",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-07-31",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-08-01",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-08-02",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-08-03",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-08-06",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-08-07",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-08-08",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-08-09",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-08-10",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-08-13",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-08-14",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-08-15",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-08-16",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-08-17",
+    "countOfEmails": 23
+  },
+  {
+    "dailyEmail": "2001-08-20",
+    "countOfEmails": 19
+  },
+  {
+    "dailyEmail": "2001-08-21",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-08-22",
+    "countOfEmails": 19
+  },
+  {
+    "dailyEmail": "2001-08-23",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-08-24",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-08-27",
+    "countOfEmails": 17
+  },
+  {
+    "dailyEmail": "2001-08-28",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-08-29",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-08-30",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-08-31",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-09-04",
+    "countOfEmails": 3
+  },
+  {
+    "dailyEmail": "2001-09-06",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-09-07",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-09-17",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-10-03",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-10-04",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-10-08",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-10-11",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-10-19",
+    "countOfEmails": 22
+  },
+  {
+    "dailyEmail": "2001-10-22",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-10-23",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-10-24",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-10-25",
+    "countOfEmails": 22
+  },
+  {
+    "dailyEmail": "2001-10-28",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-10-29",
+    "countOfEmails": 8
+  },
+  {
+    "dailyEmail": "2001-10-30",
+    "countOfEmails": 14
+  },
+  {
+    "dailyEmail": "2001-10-31",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-11-01",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-11-02",
+    "countOfEmails": 19
+  },
+  {
+    "dailyEmail": "2001-11-05",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-11-06",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-11-07",
+    "countOfEmails": 12
+  },
+  {
+    "dailyEmail": "2001-11-08",
+    "countOfEmails": 3
+  },
+  {
+    "dailyEmail": "2001-11-09",
+    "countOfEmails": 8
+  },
+  {
+    "dailyEmail": "2001-11-12",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-11-13",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-11-14",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-11-16",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-11-19",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-11-21",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-11-26",
+    "countOfEmails": 15
+  },
+  {
+    "dailyEmail": "2001-11-27",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-11-29",
+    "countOfEmails": 6
+  },
+  {
+    "dailyEmail": "2001-11-30",
+    "countOfEmails": 16
+  },
+  {
+    "dailyEmail": "2001-12-03",
+    "countOfEmails": 11
+  },
+  {
+    "dailyEmail": "2001-12-04",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-12-05",
+    "countOfEmails": 9
+  },
+  {
+    "dailyEmail": "2001-12-07",
+    "countOfEmails": 18
+  },
+  {
+    "dailyEmail": "2001-12-10",
+    "countOfEmails": 13
+  },
+  {
+    "dailyEmail": "2001-12-11",
+    "countOfEmails": 5
+  },
+  {
+    "dailyEmail": "2001-12-12",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-12-14",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-12-16",
+    "countOfEmails": 4
+  },
+  {
+    "dailyEmail": "2001-12-19",
+    "countOfEmails": 7
+  },
+  {
+    "dailyEmail": "2001-12-25",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-12-26",
+    "countOfEmails": 10
+  },
+  {
+    "dailyEmail": "2001-12-27",
+    "countOfEmails": 2
+  },
+  {
+    "dailyEmail": "2001-12-28",
+    "countOfEmails": 20
+  },
+  {
+    "dailyEmail": "2001-12-30",
+    "countOfEmails": 1
+  },
+  {
+    "dailyEmail": "2001-12-31",
+    "countOfEmails": 10
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "monthName": "January",
+    "monthID": 1,
+    "totalEmails": 377
+  },
+  {
+    "monthName": "February",
+    "monthID": 2,
+    "totalEmails": 388
+  },
+  {
+    "monthName": "March",
+    "monthID": 3,
+    "totalEmails": 639
+  },
+  {
+    "monthName": "April",
+    "monthID": 4,
+    "totalEmails": 1469
+  },
+  {
+    "monthName": "May",
+    "monthID": 5,
+    "totalEmails": 1370
+  },
+  {
+    "monthName": "June",
+    "monthID": 6,
+    "totalEmails": 653
+  },
+  {
+    "monthName": "July",
+    "monthID": 7,
+    "totalEmails": 625
+  },
+  {
+    "monthName": "August",
+    "monthID": 8,
+    "totalEmails": 479
+  },
+  {
+    "monthName": "September",
+    "monthID": 9,
+    "totalEmails": 652
+  },
+  {
+    "monthName": "October",
+    "monthID": 10,
+    "totalEmails": 2498
+  },
+  {
+    "monthName": "November",
+    "monthID": 11,
+    "totalEmails": 1337
+  },
+  {
+    "monthName": "December",
+    "monthID": 12,
+    "totalEmails": 698
+  }
+]

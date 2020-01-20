@@ -1,0 +1,1462 @@
+[
+  {
+    "emailDate": "2001-01-01",
+    "totalEmails": 46
+  },
+  {
+    "emailDate": "2001-01-02",
+    "totalEmails": 369
+  },
+  {
+    "emailDate": "2001-01-03",
+    "totalEmails": 391
+  },
+  {
+    "emailDate": "2001-01-04",
+    "totalEmails": 341
+  },
+  {
+    "emailDate": "2001-01-05",
+    "totalEmails": 340
+  },
+  {
+    "emailDate": "2001-01-06",
+    "totalEmails": 13
+  },
+  {
+    "emailDate": "2001-01-07",
+    "totalEmails": 53
+  },
+  {
+    "emailDate": "2001-01-08",
+    "totalEmails": 333
+  },
+  {
+    "emailDate": "2001-01-09",
+    "totalEmails": 310
+  },
+  {
+    "emailDate": "2001-01-10",
+    "totalEmails": 332
+  },
+  {
+    "emailDate": "2001-01-11",
+    "totalEmails": 327
+  },
+  {
+    "emailDate": "2001-01-12",
+    "totalEmails": 329
+  },
+  {
+    "emailDate": "2001-01-13",
+    "totalEmails": 37
+  },
+  {
+    "emailDate": "2001-01-14",
+    "totalEmails": 27
+  },
+  {
+    "emailDate": "2001-01-15",
+    "totalEmails": 72
+  },
+  {
+    "emailDate": "2001-01-16",
+    "totalEmails": 372
+  },
+  {
+    "emailDate": "2001-01-17",
+    "totalEmails": 379
+  },
+  {
+    "emailDate": "2001-01-18",
+    "totalEmails": 324
+  },
+  {
+    "emailDate": "2001-01-19",
+    "totalEmails": 292
+  },
+  {
+    "emailDate": "2001-01-20",
+    "totalEmails": 35
+  },
+  {
+    "emailDate": "2001-01-21",
+    "totalEmails": 96
+  },
+  {
+    "emailDate": "2001-01-22",
+    "totalEmails": 378
+  },
+  {
+    "emailDate": "2001-01-23",
+    "totalEmails": 440
+  },
+  {
+    "emailDate": "2001-01-24",
+    "totalEmails": 459
+  },
+  {
+    "emailDate": "2001-01-25",
+    "totalEmails": 336
+  },
+  {
+    "emailDate": "2001-01-26",
+    "totalEmails": 400
+  },
+  {
+    "emailDate": "2001-01-27",
+    "totalEmails": 13
+  },
+  {
+    "emailDate": "2001-01-28",
+    "totalEmails": 41
+  },
+  {
+    "emailDate": "2001-01-29",
+    "totalEmails": 413
+  },
+  {
+    "emailDate": "2001-01-30",
+    "totalEmails": 405
+  },
+  {
+    "emailDate": "2001-01-31",
+    "totalEmails": 424
+  },
+  {
+    "emailDate": "2001-02-01",
+    "totalEmails": 327
+  },
+  {
+    "emailDate": "2001-02-02",
+    "totalEmails": 352
+  },
+  {
+    "emailDate": "2001-02-03",
+    "totalEmails": 15
+  },
+  {
+    "emailDate": "2001-02-04",
+    "totalEmails": 69
+  },
+  {
+    "emailDate": "2001-02-05",
+    "totalEmails": 396
+  },
+  {
+    "emailDate": "2001-02-06",
+    "totalEmails": 491
+  },
+  {
+    "emailDate": "2001-02-07",
+    "totalEmails": 424
+  },
+  {
+    "emailDate": "2001-02-08",
+    "totalEmails": 320
+  },
+  {
+    "emailDate": "2001-02-09",
+    "totalEmails": 376
+  },
+  {
+    "emailDate": "2001-02-10",
+    "totalEmails": 11
+  },
+  {
+    "emailDate": "2001-02-11",
+    "totalEmails": 48
+  },
+  {
+    "emailDate": "2001-02-12",
+    "totalEmails": 396
+  },
+  {
+    "emailDate": "2001-02-13",
+    "totalEmails": 340
+  },
+  {
+    "emailDate": "2001-02-14",
+    "totalEmails": 381
+  },
+  {
+    "emailDate": "2001-02-15",
+    "totalEmails": 434
+  },
+  {
+    "emailDate": "2001-02-16",
+    "totalEmails": 367
+  },
+  {
+    "emailDate": "2001-02-17",
+    "totalEmails": 12
+  },
+  {
+    "emailDate": "2001-02-18",
+    "totalEmails": 28
+  },
+  {
+    "emailDate": "2001-02-19",
+    "totalEmails": 92
+  },
+  {
+    "emailDate": "2001-02-20",
+    "totalEmails": 446
+  },
+  {
+    "emailDate": "2001-02-21",
+    "totalEmails": 505
+  },
+  {
+    "emailDate": "2001-02-22",
+    "totalEmails": 462
+  },
+  {
+    "emailDate": "2001-02-23",
+    "totalEmails": 415
+  },
+  {
+    "emailDate": "2001-02-24",
+    "totalEmails": 14
+  },
+  {
+    "emailDate": "2001-02-25",
+    "totalEmails": 51
+  },
+  {
+    "emailDate": "2001-02-26",
+    "totalEmails": 443
+  },
+  {
+    "emailDate": "2001-02-27",
+    "totalEmails": 459
+  },
+  {
+    "emailDate": "2001-02-28",
+    "totalEmails": 545
+  },
+  {
+    "emailDate": "2001-03-01",
+    "totalEmails": 415
+  },
+  {
+    "emailDate": "2001-03-02",
+    "totalEmails": 404
+  },
+  {
+    "emailDate": "2001-03-03",
+    "totalEmails": 40
+  },
+  {
+    "emailDate": "2001-03-04",
+    "totalEmails": 70
+  },
+  {
+    "emailDate": "2001-03-05",
+    "totalEmails": 401
+  },
+  {
+    "emailDate": "2001-03-06",
+    "totalEmails": 503
+  },
+  {
+    "emailDate": "2001-03-07",
+    "totalEmails": 461
+  },
+  {
+    "emailDate": "2001-03-08",
+    "totalEmails": 464
+  },
+  {
+    "emailDate": "2001-03-09",
+    "totalEmails": 380
+  },
+  {
+    "emailDate": "2001-03-10",
+    "totalEmails": 30
+  },
+  {
+    "emailDate": "2001-03-11",
+    "totalEmails": 18
+  },
+  {
+    "emailDate": "2001-03-12",
+    "totalEmails": 495
+  },
+  {
+    "emailDate": "2001-03-13",
+    "totalEmails": 431
+  },
+  {
+    "emailDate": "2001-03-14",
+    "totalEmails": 495
+  },
+  {
+    "emailDate": "2001-03-15",
+    "totalEmails": 495
+  },
+  {
+    "emailDate": "2001-03-16",
+    "totalEmails": 422
+  },
+  {
+    "emailDate": "2001-03-17",
+    "totalEmails": 10
+  },
+  {
+    "emailDate": "2001-03-18",
+    "totalEmails": 67
+  },
+  {
+    "emailDate": "2001-03-19",
+    "totalEmails": 509
+  },
+  {
+    "emailDate": "2001-03-20",
+    "totalEmails": 600
+  },
+  {
+    "emailDate": "2001-03-21",
+    "totalEmails": 547
+  },
+  {
+    "emailDate": "2001-03-22",
+    "totalEmails": 503
+  },
+  {
+    "emailDate": "2001-03-23",
+    "totalEmails": 553
+  },
+  {
+    "emailDate": "2001-03-24",
+    "totalEmails": 21
+  },
+  {
+    "emailDate": "2001-03-25",
+    "totalEmails": 85
+  },
+  {
+    "emailDate": "2001-03-26",
+    "totalEmails": 443
+  },
+  {
+    "emailDate": "2001-03-27",
+    "totalEmails": 395
+  },
+  {
+    "emailDate": "2001-03-28",
+    "totalEmails": 463
+  },
+  {
+    "emailDate": "2001-03-29",
+    "totalEmails": 440
+  },
+  {
+    "emailDate": "2001-03-30",
+    "totalEmails": 467
+  },
+  {
+    "emailDate": "2001-03-31",
+    "totalEmails": 59
+  },
+  {
+    "emailDate": "2001-04-01",
+    "totalEmails": 63
+  },
+  {
+    "emailDate": "2001-04-02",
+    "totalEmails": 546
+  },
+  {
+    "emailDate": "2001-04-03",
+    "totalEmails": 526
+  },
+  {
+    "emailDate": "2001-04-04",
+    "totalEmails": 562
+  },
+  {
+    "emailDate": "2001-04-05",
+    "totalEmails": 508
+  },
+  {
+    "emailDate": "2001-04-06",
+    "totalEmails": 408
+  },
+  {
+    "emailDate": "2001-04-07",
+    "totalEmails": 45
+  },
+  {
+    "emailDate": "2001-04-08",
+    "totalEmails": 65
+  },
+  {
+    "emailDate": "2001-04-09",
+    "totalEmails": 708
+  },
+  {
+    "emailDate": "2001-04-10",
+    "totalEmails": 637
+  },
+  {
+    "emailDate": "2001-04-11",
+    "totalEmails": 680
+  },
+  {
+    "emailDate": "2001-04-12",
+    "totalEmails": 564
+  },
+  {
+    "emailDate": "2001-04-13",
+    "totalEmails": 340
+  },
+  {
+    "emailDate": "2001-04-14",
+    "totalEmails": 62
+  },
+  {
+    "emailDate": "2001-04-15",
+    "totalEmails": 135
+  },
+  {
+    "emailDate": "2001-04-16",
+    "totalEmails": 665
+  },
+  {
+    "emailDate": "2001-04-17",
+    "totalEmails": 702
+  },
+  {
+    "emailDate": "2001-04-18",
+    "totalEmails": 661
+  },
+  {
+    "emailDate": "2001-04-19",
+    "totalEmails": 777
+  },
+  {
+    "emailDate": "2001-04-20",
+    "totalEmails": 619
+  },
+  {
+    "emailDate": "2001-04-21",
+    "totalEmails": 95
+  },
+  {
+    "emailDate": "2001-04-22",
+    "totalEmails": 162
+  },
+  {
+    "emailDate": "2001-04-23",
+    "totalEmails": 739
+  },
+  {
+    "emailDate": "2001-04-24",
+    "totalEmails": 879
+  },
+  {
+    "emailDate": "2001-04-25",
+    "totalEmails": 804
+  },
+  {
+    "emailDate": "2001-04-26",
+    "totalEmails": 619
+  },
+  {
+    "emailDate": "2001-04-27",
+    "totalEmails": 696
+  },
+  {
+    "emailDate": "2001-04-28",
+    "totalEmails": 94
+  },
+  {
+    "emailDate": "2001-04-29",
+    "totalEmails": 167
+  },
+  {
+    "emailDate": "2001-04-30",
+    "totalEmails": 820
+  },
+  {
+    "emailDate": "2001-05-01",
+    "totalEmails": 829
+  },
+  {
+    "emailDate": "2001-05-02",
+    "totalEmails": 659
+  },
+  {
+    "emailDate": "2001-05-03",
+    "totalEmails": 362
+  },
+  {
+    "emailDate": "2001-05-04",
+    "totalEmails": 647
+  },
+  {
+    "emailDate": "2001-05-05",
+    "totalEmails": 28
+  },
+  {
+    "emailDate": "2001-05-06",
+    "totalEmails": 93
+  },
+  {
+    "emailDate": "2001-05-07",
+    "totalEmails": 728
+  },
+  {
+    "emailDate": "2001-05-08",
+    "totalEmails": 742
+  },
+  {
+    "emailDate": "2001-05-09",
+    "totalEmails": 690
+  },
+  {
+    "emailDate": "2001-05-10",
+    "totalEmails": 800
+  },
+  {
+    "emailDate": "2001-05-11",
+    "totalEmails": 798
+  },
+  {
+    "emailDate": "2001-05-12",
+    "totalEmails": 29
+  },
+  {
+    "emailDate": "2001-05-13",
+    "totalEmails": 172
+  },
+  {
+    "emailDate": "2001-05-14",
+    "totalEmails": 892
+  },
+  {
+    "emailDate": "2001-05-15",
+    "totalEmails": 847
+  },
+  {
+    "emailDate": "2001-05-16",
+    "totalEmails": 770
+  },
+  {
+    "emailDate": "2001-05-17",
+    "totalEmails": 756
+  },
+  {
+    "emailDate": "2001-05-18",
+    "totalEmails": 526
+  },
+  {
+    "emailDate": "2001-05-19",
+    "totalEmails": 22
+  },
+  {
+    "emailDate": "2001-05-20",
+    "totalEmails": 113
+  },
+  {
+    "emailDate": "2001-05-21",
+    "totalEmails": 792
+  },
+  {
+    "emailDate": "2001-05-22",
+    "totalEmails": 809
+  },
+  {
+    "emailDate": "2001-05-23",
+    "totalEmails": 834
+  },
+  {
+    "emailDate": "2001-05-24",
+    "totalEmails": 764
+  },
+  {
+    "emailDate": "2001-05-25",
+    "totalEmails": 630
+  },
+  {
+    "emailDate": "2001-05-26",
+    "totalEmails": 24
+  },
+  {
+    "emailDate": "2001-05-27",
+    "totalEmails": 32
+  },
+  {
+    "emailDate": "2001-05-28",
+    "totalEmails": 94
+  },
+  {
+    "emailDate": "2001-05-29",
+    "totalEmails": 868
+  },
+  {
+    "emailDate": "2001-05-30",
+    "totalEmails": 739
+  },
+  {
+    "emailDate": "2001-05-31",
+    "totalEmails": 897
+  },
+  {
+    "emailDate": "2001-06-01",
+    "totalEmails": 770
+  },
+  {
+    "emailDate": "2001-06-02",
+    "totalEmails": 47
+  },
+  {
+    "emailDate": "2001-06-03",
+    "totalEmails": 69
+  },
+  {
+    "emailDate": "2001-06-04",
+    "totalEmails": 791
+  },
+  {
+    "emailDate": "2001-06-05",
+    "totalEmails": 953
+  },
+  {
+    "emailDate": "2001-06-06",
+    "totalEmails": 932
+  },
+  {
+    "emailDate": "2001-06-07",
+    "totalEmails": 1152
+  },
+  {
+    "emailDate": "2001-06-08",
+    "totalEmails": 641
+  },
+  {
+    "emailDate": "2001-06-09",
+    "totalEmails": 15
+  },
+  {
+    "emailDate": "2001-06-10",
+    "totalEmails": 35
+  },
+  {
+    "emailDate": "2001-06-11",
+    "totalEmails": 364
+  },
+  {
+    "emailDate": "2001-06-12",
+    "totalEmails": 255
+  },
+  {
+    "emailDate": "2001-06-13",
+    "totalEmails": 254
+  },
+  {
+    "emailDate": "2001-06-14",
+    "totalEmails": 214
+  },
+  {
+    "emailDate": "2001-06-15",
+    "totalEmails": 180
+  },
+  {
+    "emailDate": "2001-06-16",
+    "totalEmails": 35
+  },
+  {
+    "emailDate": "2001-06-17",
+    "totalEmails": 39
+  },
+  {
+    "emailDate": "2001-06-18",
+    "totalEmails": 284
+  },
+  {
+    "emailDate": "2001-06-19",
+    "totalEmails": 254
+  },
+  {
+    "emailDate": "2001-06-20",
+    "totalEmails": 273
+  },
+  {
+    "emailDate": "2001-06-21",
+    "totalEmails": 328
+  },
+  {
+    "emailDate": "2001-06-22",
+    "totalEmails": 229
+  },
+  {
+    "emailDate": "2001-06-23",
+    "totalEmails": 10
+  },
+  {
+    "emailDate": "2001-06-24",
+    "totalEmails": 26
+  },
+  {
+    "emailDate": "2001-06-25",
+    "totalEmails": 266
+  },
+  {
+    "emailDate": "2001-06-26",
+    "totalEmails": 970
+  },
+  {
+    "emailDate": "2001-06-27",
+    "totalEmails": 1321
+  },
+  {
+    "emailDate": "2001-06-28",
+    "totalEmails": 206
+  },
+  {
+    "emailDate": "2001-06-29",
+    "totalEmails": 198
+  },
+  {
+    "emailDate": "2001-06-30",
+    "totalEmails": 17
+  },
+  {
+    "emailDate": "2001-07-01",
+    "totalEmails": 38
+  },
+  {
+    "emailDate": "2001-07-02",
+    "totalEmails": 268
+  },
+  {
+    "emailDate": "2001-07-03",
+    "totalEmails": 232
+  },
+  {
+    "emailDate": "2001-07-04",
+    "totalEmails": 34
+  },
+  {
+    "emailDate": "2001-07-05",
+    "totalEmails": 267
+  },
+  {
+    "emailDate": "2001-07-06",
+    "totalEmails": 267
+  },
+  {
+    "emailDate": "2001-07-07",
+    "totalEmails": 29
+  },
+  {
+    "emailDate": "2001-07-08",
+    "totalEmails": 69
+  },
+  {
+    "emailDate": "2001-07-09",
+    "totalEmails": 308
+  },
+  {
+    "emailDate": "2001-07-10",
+    "totalEmails": 363
+  },
+  {
+    "emailDate": "2001-07-11",
+    "totalEmails": 357
+  },
+  {
+    "emailDate": "2001-07-12",
+    "totalEmails": 277
+  },
+  {
+    "emailDate": "2001-07-13",
+    "totalEmails": 304
+  },
+  {
+    "emailDate": "2001-07-14",
+    "totalEmails": 19
+  },
+  {
+    "emailDate": "2001-07-15",
+    "totalEmails": 19
+  },
+  {
+    "emailDate": "2001-07-16",
+    "totalEmails": 336
+  },
+  {
+    "emailDate": "2001-07-17",
+    "totalEmails": 333
+  },
+  {
+    "emailDate": "2001-07-18",
+    "totalEmails": 332
+  },
+  {
+    "emailDate": "2001-07-19",
+    "totalEmails": 363
+  },
+  {
+    "emailDate": "2001-07-20",
+    "totalEmails": 259
+  },
+  {
+    "emailDate": "2001-07-21",
+    "totalEmails": 18
+  },
+  {
+    "emailDate": "2001-07-22",
+    "totalEmails": 24
+  },
+  {
+    "emailDate": "2001-07-23",
+    "totalEmails": 321
+  },
+  {
+    "emailDate": "2001-07-24",
+    "totalEmails": 312
+  },
+  {
+    "emailDate": "2001-07-25",
+    "totalEmails": 247
+  },
+  {
+    "emailDate": "2001-07-26",
+    "totalEmails": 449
+  },
+  {
+    "emailDate": "2001-07-27",
+    "totalEmails": 271
+  },
+  {
+    "emailDate": "2001-07-28",
+    "totalEmails": 21
+  },
+  {
+    "emailDate": "2001-07-29",
+    "totalEmails": 20
+  },
+  {
+    "emailDate": "2001-07-30",
+    "totalEmails": 485
+  },
+  {
+    "emailDate": "2001-07-31",
+    "totalEmails": 338
+  },
+  {
+    "emailDate": "2001-08-01",
+    "totalEmails": 269
+  },
+  {
+    "emailDate": "2001-08-02",
+    "totalEmails": 264
+  },
+  {
+    "emailDate": "2001-08-03",
+    "totalEmails": 204
+  },
+  {
+    "emailDate": "2001-08-04",
+    "totalEmails": 8
+  },
+  {
+    "emailDate": "2001-08-05",
+    "totalEmails": 21
+  },
+  {
+    "emailDate": "2001-08-06",
+    "totalEmails": 290
+  },
+  {
+    "emailDate": "2001-08-07",
+    "totalEmails": 310
+  },
+  {
+    "emailDate": "2001-08-08",
+    "totalEmails": 247
+  },
+  {
+    "emailDate": "2001-08-09",
+    "totalEmails": 344
+  },
+  {
+    "emailDate": "2001-08-10",
+    "totalEmails": 272
+  },
+  {
+    "emailDate": "2001-08-11",
+    "totalEmails": 8
+  },
+  {
+    "emailDate": "2001-08-12",
+    "totalEmails": 90
+  },
+  {
+    "emailDate": "2001-08-13",
+    "totalEmails": 359
+  },
+  {
+    "emailDate": "2001-08-14",
+    "totalEmails": 397
+  },
+  {
+    "emailDate": "2001-08-15",
+    "totalEmails": 285
+  },
+  {
+    "emailDate": "2001-08-16",
+    "totalEmails": 257
+  },
+  {
+    "emailDate": "2001-08-17",
+    "totalEmails": 236
+  },
+  {
+    "emailDate": "2001-08-18",
+    "totalEmails": 29
+  },
+  {
+    "emailDate": "2001-08-19",
+    "totalEmails": 51
+  },
+  {
+    "emailDate": "2001-08-20",
+    "totalEmails": 368
+  },
+  {
+    "emailDate": "2001-08-21",
+    "totalEmails": 370
+  },
+  {
+    "emailDate": "2001-08-22",
+    "totalEmails": 306
+  },
+  {
+    "emailDate": "2001-08-23",
+    "totalEmails": 348
+  },
+  {
+    "emailDate": "2001-08-24",
+    "totalEmails": 299
+  },
+  {
+    "emailDate": "2001-08-25",
+    "totalEmails": 41
+  },
+  {
+    "emailDate": "2001-08-26",
+    "totalEmails": 62
+  },
+  {
+    "emailDate": "2001-08-27",
+    "totalEmails": 373
+  },
+  {
+    "emailDate": "2001-08-28",
+    "totalEmails": 411
+  },
+  {
+    "emailDate": "2001-08-29",
+    "totalEmails": 326
+  },
+  {
+    "emailDate": "2001-08-30",
+    "totalEmails": 371
+  },
+  {
+    "emailDate": "2001-08-31",
+    "totalEmails": 274
+  },
+  {
+    "emailDate": "2001-09-01",
+    "totalEmails": 12
+  },
+  {
+    "emailDate": "2001-09-02",
+    "totalEmails": 12
+  },
+  {
+    "emailDate": "2001-09-03",
+    "totalEmails": 39
+  },
+  {
+    "emailDate": "2001-09-04",
+    "totalEmails": 403
+  },
+  {
+    "emailDate": "2001-09-05",
+    "totalEmails": 431
+  },
+  {
+    "emailDate": "2001-09-06",
+    "totalEmails": 357
+  },
+  {
+    "emailDate": "2001-09-07",
+    "totalEmails": 330
+  },
+  {
+    "emailDate": "2001-09-08",
+    "totalEmails": 26
+  },
+  {
+    "emailDate": "2001-09-09",
+    "totalEmails": 38
+  },
+  {
+    "emailDate": "2001-09-10",
+    "totalEmails": 474
+  },
+  {
+    "emailDate": "2001-09-11",
+    "totalEmails": 168
+  },
+  {
+    "emailDate": "2001-09-12",
+    "totalEmails": 426
+  },
+  {
+    "emailDate": "2001-09-13",
+    "totalEmails": 422
+  },
+  {
+    "emailDate": "2001-09-14",
+    "totalEmails": 369
+  },
+  {
+    "emailDate": "2001-09-15",
+    "totalEmails": 42
+  },
+  {
+    "emailDate": "2001-09-16",
+    "totalEmails": 44
+  },
+  {
+    "emailDate": "2001-09-17",
+    "totalEmails": 464
+  },
+  {
+    "emailDate": "2001-09-18",
+    "totalEmails": 534
+  },
+  {
+    "emailDate": "2001-09-19",
+    "totalEmails": 639
+  },
+  {
+    "emailDate": "2001-09-20",
+    "totalEmails": 465
+  },
+  {
+    "emailDate": "2001-09-21",
+    "totalEmails": 465
+  },
+  {
+    "emailDate": "2001-09-22",
+    "totalEmails": 27
+  },
+  {
+    "emailDate": "2001-09-23",
+    "totalEmails": 51
+  },
+  {
+    "emailDate": "2001-09-24",
+    "totalEmails": 601
+  },
+  {
+    "emailDate": "2001-09-25",
+    "totalEmails": 754
+  },
+  {
+    "emailDate": "2001-09-26",
+    "totalEmails": 728
+  },
+  {
+    "emailDate": "2001-09-27",
+    "totalEmails": 871
+  },
+  {
+    "emailDate": "2001-09-28",
+    "totalEmails": 611
+  },
+  {
+    "emailDate": "2001-09-29",
+    "totalEmails": 26
+  },
+  {
+    "emailDate": "2001-09-30",
+    "totalEmails": 59
+  },
+  {
+    "emailDate": "2001-10-01",
+    "totalEmails": 859
+  },
+  {
+    "emailDate": "2001-10-02",
+    "totalEmails": 802
+  },
+  {
+    "emailDate": "2001-10-03",
+    "totalEmails": 673
+  },
+  {
+    "emailDate": "2001-10-04",
+    "totalEmails": 648
+  },
+  {
+    "emailDate": "2001-10-05",
+    "totalEmails": 697
+  },
+  {
+    "emailDate": "2001-10-06",
+    "totalEmails": 58
+  },
+  {
+    "emailDate": "2001-10-07",
+    "totalEmails": 102
+  },
+  {
+    "emailDate": "2001-10-08",
+    "totalEmails": 865
+  },
+  {
+    "emailDate": "2001-10-09",
+    "totalEmails": 931
+  },
+  {
+    "emailDate": "2001-10-10",
+    "totalEmails": 826
+  },
+  {
+    "emailDate": "2001-10-11",
+    "totalEmails": 714
+  },
+  {
+    "emailDate": "2001-10-12",
+    "totalEmails": 758
+  },
+  {
+    "emailDate": "2001-10-13",
+    "totalEmails": 80
+  },
+  {
+    "emailDate": "2001-10-14",
+    "totalEmails": 123
+  },
+  {
+    "emailDate": "2001-10-15",
+    "totalEmails": 1225
+  },
+  {
+    "emailDate": "2001-10-16",
+    "totalEmails": 1273
+  },
+  {
+    "emailDate": "2001-10-17",
+    "totalEmails": 1251
+  },
+  {
+    "emailDate": "2001-10-18",
+    "totalEmails": 1624
+  },
+  {
+    "emailDate": "2001-10-19",
+    "totalEmails": 1362
+  },
+  {
+    "emailDate": "2001-10-20",
+    "totalEmails": 138
+  },
+  {
+    "emailDate": "2001-10-21",
+    "totalEmails": 206
+  },
+  {
+    "emailDate": "2001-10-22",
+    "totalEmails": 2025
+  },
+  {
+    "emailDate": "2001-10-23",
+    "totalEmails": 1763
+  },
+  {
+    "emailDate": "2001-10-24",
+    "totalEmails": 1936
+  },
+  {
+    "emailDate": "2001-10-25",
+    "totalEmails": 2207
+  },
+  {
+    "emailDate": "2001-10-26",
+    "totalEmails": 1978
+  },
+  {
+    "emailDate": "2001-10-27",
+    "totalEmails": 198
+  },
+  {
+    "emailDate": "2001-10-28",
+    "totalEmails": 358
+  },
+  {
+    "emailDate": "2001-10-29",
+    "totalEmails": 2180
+  },
+  {
+    "emailDate": "2001-10-30",
+    "totalEmails": 775
+  },
+  {
+    "emailDate": "2001-10-31",
+    "totalEmails": 921
+  },
+  {
+    "emailDate": "2001-11-01",
+    "totalEmails": 823
+  },
+  {
+    "emailDate": "2001-11-02",
+    "totalEmails": 843
+  },
+  {
+    "emailDate": "2001-11-03",
+    "totalEmails": 57
+  },
+  {
+    "emailDate": "2001-11-04",
+    "totalEmails": 65
+  },
+  {
+    "emailDate": "2001-11-05",
+    "totalEmails": 964
+  },
+  {
+    "emailDate": "2001-11-06",
+    "totalEmails": 934
+  },
+  {
+    "emailDate": "2001-11-07",
+    "totalEmails": 896
+  },
+  {
+    "emailDate": "2001-11-08",
+    "totalEmails": 794
+  },
+  {
+    "emailDate": "2001-11-09",
+    "totalEmails": 728
+  },
+  {
+    "emailDate": "2001-11-10",
+    "totalEmails": 25
+  },
+  {
+    "emailDate": "2001-11-11",
+    "totalEmails": 67
+  },
+  {
+    "emailDate": "2001-11-12",
+    "totalEmails": 898
+  },
+  {
+    "emailDate": "2001-11-13",
+    "totalEmails": 1032
+  },
+  {
+    "emailDate": "2001-11-14",
+    "totalEmails": 1238
+  },
+  {
+    "emailDate": "2001-11-15",
+    "totalEmails": 1131
+  },
+  {
+    "emailDate": "2001-11-16",
+    "totalEmails": 1099
+  },
+  {
+    "emailDate": "2001-11-17",
+    "totalEmails": 149
+  },
+  {
+    "emailDate": "2001-11-18",
+    "totalEmails": 237
+  },
+  {
+    "emailDate": "2001-11-19",
+    "totalEmails": 1909
+  },
+  {
+    "emailDate": "2001-11-20",
+    "totalEmails": 1723
+  },
+  {
+    "emailDate": "2001-11-21",
+    "totalEmails": 1365
+  },
+  {
+    "emailDate": "2001-11-22",
+    "totalEmails": 132
+  },
+  {
+    "emailDate": "2001-11-23",
+    "totalEmails": 211
+  },
+  {
+    "emailDate": "2001-11-24",
+    "totalEmails": 102
+  },
+  {
+    "emailDate": "2001-11-25",
+    "totalEmails": 337
+  },
+  {
+    "emailDate": "2001-11-26",
+    "totalEmails": 2031
+  },
+  {
+    "emailDate": "2001-11-27",
+    "totalEmails": 2045
+  },
+  {
+    "emailDate": "2001-11-28",
+    "totalEmails": 522
+  },
+  {
+    "emailDate": "2001-11-29",
+    "totalEmails": 564
+  },
+  {
+    "emailDate": "2001-11-30",
+    "totalEmails": 520
+  },
+  {
+    "emailDate": "2001-12-01",
+    "totalEmails": 53
+  },
+  {
+    "emailDate": "2001-12-02",
+    "totalEmails": 114
+  },
+  {
+    "emailDate": "2001-12-03",
+    "totalEmails": 423
+  },
+  {
+    "emailDate": "2001-12-04",
+    "totalEmails": 447
+  },
+  {
+    "emailDate": "2001-12-05",
+    "totalEmails": 365
+  },
+  {
+    "emailDate": "2001-12-06",
+    "totalEmails": 386
+  },
+  {
+    "emailDate": "2001-12-07",
+    "totalEmails": 354
+  },
+  {
+    "emailDate": "2001-12-08",
+    "totalEmails": 32
+  },
+  {
+    "emailDate": "2001-12-09",
+    "totalEmails": 69
+  },
+  {
+    "emailDate": "2001-12-10",
+    "totalEmails": 408
+  },
+  {
+    "emailDate": "2001-12-11",
+    "totalEmails": 472
+  },
+  {
+    "emailDate": "2001-12-12",
+    "totalEmails": 508
+  },
+  {
+    "emailDate": "2001-12-13",
+    "totalEmails": 528
+  },
+  {
+    "emailDate": "2001-12-14",
+    "totalEmails": 342
+  },
+  {
+    "emailDate": "2001-12-15",
+    "totalEmails": 34
+  },
+  {
+    "emailDate": "2001-12-16",
+    "totalEmails": 38
+  },
+  {
+    "emailDate": "2001-12-17",
+    "totalEmails": 545
+  },
+  {
+    "emailDate": "2001-12-18",
+    "totalEmails": 319
+  },
+  {
+    "emailDate": "2001-12-19",
+    "totalEmails": 654
+  },
+  {
+    "emailDate": "2001-12-20",
+    "totalEmails": 504
+  },
+  {
+    "emailDate": "2001-12-21",
+    "totalEmails": 402
+  },
+  {
+    "emailDate": "2001-12-22",
+    "totalEmails": 71
+  },
+  {
+    "emailDate": "2001-12-23",
+    "totalEmails": 66
+  },
+  {
+    "emailDate": "2001-12-24",
+    "totalEmails": 105
+  },
+  {
+    "emailDate": "2001-12-25",
+    "totalEmails": 60
+  },
+  {
+    "emailDate": "2001-12-26",
+    "totalEmails": 407
+  },
+  {
+    "emailDate": "2001-12-27",
+    "totalEmails": 589
+  },
+  {
+    "emailDate": "2001-12-28",
+    "totalEmails": 539
+  },
+  {
+    "emailDate": "2001-12-29",
+    "totalEmails": 103
+  },
+  {
+    "emailDate": "2001-12-30",
+    "totalEmails": 107
+  },
+  {
+    "emailDate": "2001-12-31",
+    "totalEmails": 427
+  }
+]
