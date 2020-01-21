@@ -30,5 +30,5 @@ https://www.kaggle.com/rtatman/fraudulent-email-corpus
 ## Email Spambase 
 https://archive.ics.uci.edu/ml/datasets/Spambase
 
-## DBWorld e-mails Data Set
+## DBWorld E-mails Data Set
 https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
