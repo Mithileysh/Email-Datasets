@@ -1,4 +1,9 @@
 # Email Datasets
+The queried datasets are available in this github repository.
+Enron
+Hilary Clinton
+
+The raw datasets are available in the below links:
 
 ## Enron Email Dataset
 http://www.cs.cmu.edu/~enron/
