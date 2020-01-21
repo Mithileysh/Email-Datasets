@@ -1,7 +1,5 @@
 # Email Datasets
-The queried datasets are available in this github repository.
-Enron
-Hilary Clinton
+The queried datasets for Enron & Hilary Clinton are available in this github repository - https://github.com/Mithileysh/Email-Datasets
 
 The raw datasets are available in the below links:
 
